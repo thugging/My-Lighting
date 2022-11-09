@@ -3,4 +3,4 @@
 
 
 # Showcase Image
-![]([images/you-picture.png](https://github.com/thugging/My-Lighting/blob/main/Lighting.png))
+[![githublarge]([images/you-picture.png](https://github.com/thugging/My-Lighting/blob/main/Lighting.png))](https://raw.githubusercontent.com/thugging/My-Lighting/main/Lighting.png)
