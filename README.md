@@ -3,4 +3,7 @@
 
 
 # Showcase Image
-https://raw.githubusercontent.com/thugging/My-Lighting/main/Lighting.png
+<p align = "center">
+    <img src = "https://raw.githubusercontent.com/thugging/My-Lighting/main/Lighting.png"/>
+</p>
+
