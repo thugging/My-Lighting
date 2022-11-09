@@ -1,4 +1,4 @@
---lights.lua 
+print ("Lighting script enabled")
 ---------------------------------------------------------------------
 game.Lighting.ClockTime = 0
 game.Lighting.FogEnd = 2000
