@@ -3,4 +3,4 @@
 
 
 # Showcase Image
-https://cdn.discordapp.com/attachments/855067725624770620/1039967075298455563/image.png
+![]([images/you-picture.png](https://github.com/thugging/My-Lighting/blob/main/Lighting.png))
